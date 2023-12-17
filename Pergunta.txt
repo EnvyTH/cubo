@@ -1,0 +1,1 @@
+Meu cubo 3x3 está assim: (Front: rrw,rrw,rrw; Right: bbb,bbb,bbb; Back: yoo,yoo,yoo; Left: ggg,ggg,ggg; Top: wwo,wwo,wwo; Bottom: yyr,yyr,yyr), qual movimento devo executar para resolver? Me informe apenas o/os movimentos e apenas isso. Não fale mais nada, só o movimento.
